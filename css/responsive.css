@@ -23,12 +23,11 @@
         width: 100%;
     }
 
-    /* margin */
+    /* margin/padding */
 
     .row {
         margin-top: 0;
+        padding: 25px;
     }
-
-
 
 }
