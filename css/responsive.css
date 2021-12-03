@@ -39,17 +39,21 @@
         padding: 30px;
     }
 
-    /* text */
-
-    h1 {
-        font-size: 3em;
+    hr {
+        margin-top: 25px;
     }
 
+    /* text */
+
     h3 {
-        font-size: 2em;
+        
         margin: 10px 0;
     }
 
-    
+    body {
+        font-size: 25px;
+    }
+
+
 
 }
