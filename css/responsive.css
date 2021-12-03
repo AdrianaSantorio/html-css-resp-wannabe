@@ -10,7 +10,7 @@
 
     /* lezioni */
 
-    #lezioni .row>.left {
+    #lezioni .row>.left, #lezioni .row>.right {
         width: 100%;
     }
 
