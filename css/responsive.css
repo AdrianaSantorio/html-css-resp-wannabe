@@ -30,4 +30,9 @@
         padding: 25px;
     }
 
+    .left , .right {
+        padding: 20px;
+    }
+
+
 }
