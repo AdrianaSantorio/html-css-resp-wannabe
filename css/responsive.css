@@ -27,11 +27,16 @@
 
     .row {
         margin-top: 0;
-        padding: 25px;
+        padding: 30px;
     }
 
-    .left , .right {
-        padding: 20px;
+    .left , .central, .right {
+        padding: 30px;
+    }
+
+    #why .row>.first, #why .row>.second, #why .row>.third {
+        margin-top: 0px;
+        padding: 30px;
     }
 
 
