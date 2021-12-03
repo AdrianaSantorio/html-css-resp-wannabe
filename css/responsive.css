@@ -8,6 +8,11 @@
         box-sizing:border-box;
     }
 
+    img {
+        max-width: 100%;
+
+    }
+
     /*  background */
     #lezioni .row, #why .row  {
         background-color: #F2F2CD;
@@ -26,6 +31,7 @@
     /* margin/padding */
 
     .row {
+        max-width: 100%;
         margin-top: 0;
         padding: 30px;
     }
@@ -43,14 +49,8 @@
         margin-top: 25px;
     }
 
-    /* text */
-
     h3 {
         margin: 10px 0;
-    }
-
-    body {
-        font-size: 26px;
     }
 
 
