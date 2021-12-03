@@ -8,6 +8,10 @@
         box-sizing:border-box;
     }
 
+    #lezioni .row, #why .row  {
+        background-color: #F2F2CD;
+    }
+
     /* lezioni */
 
     #lezioni .row>.left, #lezioni .row>.right {
